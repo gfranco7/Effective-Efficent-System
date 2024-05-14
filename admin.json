@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "name": "Harvey",
+            "diretion": "donde siempre",
+            "phone": 300987,
+            "id": 321,
+            "email": "harvey@gmail.com",
+            "category": "Regular",
+            "ad_services": "20",
+            "ad_products": "10"
+        },
+        {
+            "name": "Carmen",
+            "diretion": "puta mierda",
+            "phone": 313,
+            "id": 123,
+            "email": "@la culona",
+            "category": "leal",
+            "ad_products": 11,
+            "ad_services": 21
+        },
+        {
+            "name": "Franco",
+            "diretion": "Calle",
+            "phone": 3135804273,
+            "id": 7373,
+            "email": "@gmail.com",
+            "category": "regular",
+            "ad_products": 3,
+            "ad_services": 6
+        }
+    ]
+}

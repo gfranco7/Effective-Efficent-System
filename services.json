@@ -1,0 +1,62 @@
+{
+    "services": [
+        {
+            "name": "Fibra optica",
+            "description": "De 400 megas",
+            "cost": 80000,
+            "lot": 490,
+            "serial": 222,
+            "sold": 10
+        },
+        {
+            "name": "Internet postpago",
+            "description": "De 300 megas",
+            "cost": 70000,
+            "lot": 196,
+            "serial": 444,
+            "sold": 3
+        },
+        {
+            "name": "Internet prepago",
+            "description": "De 400 megas",
+            "cost": 65000,
+            "lot": 299,
+            "serial": 333,
+            "sold": 1
+        }
+    ],
+    "products": [
+        {
+            "name": "Xiami 14",
+            "description": "Celular 5G",
+            "cost": 900000,
+            "lot": 95,
+            "serial": 1212,
+            "sold": 5
+        },
+        {
+            "name": "Iphone",
+            "description": "smartwatch",
+            "cost": 1000000,
+            "lot": 117,
+            "serial": 1313,
+            "sold": 3
+        },
+        {
+            "name": "Nokia 4k",
+            "description": "Celular indestructible",
+            "cost": 2000000,
+            "lot": 197,
+            "serial": 1414,
+            "sold": 3
+        },
+        {
+            "name": "Android 20",
+            "description": "smartwatch",
+            "cost": 15000,
+            "lot": 99,
+            "serial": 1616,
+            "sold": 1
+        }
+    ]
+}
